@@ -1,0 +1,15 @@
+current directory: /home/vaibhav/RailsProject/pc/vendor/bundle/ruby/2.2.2/gems/ruby-debug-ide-0.6.0/ext
+/home/vaibhav/.rvm/rubies/ruby-2.2.2/bin/ruby mkrf_conf.rb
+Installing base gem
+no such name (https://api.rubygems.org/quick/Marshal.4.8/debase-0.2.2.beta8.gemspec.rz)
+/home/vaibhav/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/remote_fetcher.rb:309:in `rescue in fetch_path'
+  /home/vaibhav/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/remote_fetcher.rb:284:in `fetch_path'
+  /home/vaibhav/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/source.rb:153:in `fetch_spec'
+  /home/vaibhav/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/resolver/api_specification.rb:77:in `spec'
+  /home/vaibhav/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/resolver/installer_set.rb:78:in `add_always_install'
+  /home/vaibhav/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/dependency_installer.rb:474:in `resolve_dependencies'
+  /home/vaibhav/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/dependency_installer.rb:384:in `install'
+  mkrf_conf.rb:35:in `rescue in <main>'
+  mkrf_conf.rb:28:in `<main>'
+
+rake failed, exit code 1

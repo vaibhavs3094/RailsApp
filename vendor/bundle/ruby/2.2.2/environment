@@ -1,0 +1,3 @@
+export PATH="/home/vaibhav/.rvm/gems/ruby-2.2.2/bin:/home/vaibhav/.rvm/gems/ruby-2.2.2@global/bin:/home/vaibhav/.rvm/rubies/ruby-2.2.2/bin:/home/vaibhav/.rvm/bin:$PATH"
+export GEM_PATH="/home/vaibhav/.rvm/gems/ruby-2.2.2:/home/vaibhav/.rvm/gems/ruby-2.2.2@global:/home/vaibhav/RailsProject/pc/vendor/bundle/ruby/2.2.2"
+export GEM_HOME="/home/vaibhav/RailsProject/pc/vendor/bundle/ruby/2.2.2"
